@@ -1,0 +1,18 @@
+#gameArea {
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+}
+#car {
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    top: 185px;
+    left: 275px;
+    background-image: url('car.png'); 
+    background-size: cover;
+}
+.button {
+    margin: 8px;
+}
